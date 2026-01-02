@@ -12,11 +12,12 @@ A simple and responsive Weather Application built using HTML, CSS, and JavaScrip
 - Responsive and clean UI
 
 -- Technologies Used
+
  - HTML5 – Structure
  - CSS3 – Styling & layout
- - JavaScript (ES6) – Logic & API handling
+ - JavaScript – Logic & API handling
  - OpenWeatherMap API – Real-time weather data
 
 -- Screenshot
 
-![Weather App Screenshot](screenshots/weather-app.png)
+ - ![Weather App Screenshot](screenshots/weather-app.png)
