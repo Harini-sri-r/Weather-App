@@ -20,4 +20,4 @@ A simple and responsive Weather Application built using HTML, CSS, and JavaScrip
 
 -- Screenshot
 
- - ![Weather App Screenshot](screenshots/weather-app.png)
+ - ![Weather App Screenshot](screenshots/weather-app.png.png)
